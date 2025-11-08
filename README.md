@@ -11,7 +11,7 @@ A modern chat application built with Next.js.
 
 ## Getting Started
 
-
+live link
 
 
 ## Tech Stack
